@@ -1,0 +1,1 @@
+uvicorn demo:app --host localhost --port 8008 --reload
